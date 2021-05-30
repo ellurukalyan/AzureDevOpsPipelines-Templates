@@ -2,6 +2,7 @@ trigger:
 - master
 
 variables:
+  backendServiceArm: ''
   backendAzureRmResourceGroupName: 'resourcegroup-devops-tfstate'
   backendAzureRmStorageAccountName: 'terraform0tfstate0'
   backendAzureRmContainerName: 'tfstate'
