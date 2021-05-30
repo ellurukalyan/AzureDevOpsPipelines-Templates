@@ -2,7 +2,7 @@ trigger:
 - master
 
 variables:
-  backendServiceArm: 'Free Trial(6039c9fd-0829-4d4d-8c0d-91783f4d93e8)'
+  backendServiceArm: 'Free Trial (6039c9fd-0829-4d4d-8c0d-91783f4d93e8)'
   backendAzureRmResourceGroupName: 'resourcegroup-devops-tfstate'
   backendAzureRmStorageAccountName: 'terraform0tfstate0'
   backendAzureRmContainerName: 'tfstate'
